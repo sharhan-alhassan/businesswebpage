@@ -20,25 +20,25 @@ p {
     line-height: 21px;
     margin-bottom: 20px;
 }
-.main-container {
+.container {
     width: 100%;
     margin: 0 auto;
 }
-.single-row {
+.row {
     width: 100%;
 }
 /* Header */
-.col-left {
+.col-md-8 {
     width: 32%;
 }
-.col-left img {
+.col-md-8 img {
     width: 100%;
     border-radius: 6px;
 }
-.col-right {
+.col-md-4 {
     width: 30%;
 }
-.col-left, .col-right {
+.col-md-8, .col-md-4 {
     float: left;
     padding-right: 15px;
     padding-left: 15px;
